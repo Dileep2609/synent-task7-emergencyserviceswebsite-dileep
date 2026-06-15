@@ -145,6 +145,8 @@ Build a complete responsive multi-page website containing:
 
 🔗 Live Website Link:
 
+[Watch Live Demo](https://dileep2609.github.io/synent-task7-emergencyserviceswebsite-dileep/)
+
 ---
 
 # 🎥 Demo Video
@@ -152,6 +154,8 @@ Build a complete responsive multi-page website containing:
 ### Project Demonstration
 
 🔗 YouTube Video Link:
+
+https://youtu.be/oU9OoKXu6xw
 
 ---
 
